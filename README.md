@@ -45,6 +45,6 @@ z=y+n
 
 where:
 
-y = clean image
-n = Gaussian noise
-z = noisy image
+- y = clean image
+- n = Gaussian noise
+- z = noisy image
