@@ -48,8 +48,3 @@ where:
 y = clean image
 n = Gaussian noise
 z = noisy image
-where:
-
-y = clean image
-n = Gaussian noise
-z = noisy image
