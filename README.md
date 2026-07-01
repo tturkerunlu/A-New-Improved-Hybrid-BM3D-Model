@@ -7,15 +7,26 @@ The proposed framework combines BM3D preprocessing with U-Net-based residual ref
 **Requirements**
 
 Python 3.10+
+
 PyTorch
+
 OpenCV
+
 NumPy
+
 Files
+
 infer_one.py
+
 bm3d_core.py
+
 model_unet.py
+
 utils_img.py
+
 weights/bm3d_res_unet_best.pth
+
+
 Execution
 
 Run the following command:
