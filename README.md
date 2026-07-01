@@ -50,3 +50,9 @@ To ensure reproducibility and enable independent evaluation, this submission inc
 These materials provide sufficient resources for reproducing the reported experiments and validating the proposed method.
 
 The complete training pipeline is not included in the current submission, as the work is part of ongoing thesis research and publication review. The full implementation will be made publicly available after publication.
+
+**License**
+
+This code is currently provided solely for the purpose of peer review. All rights to this work are currently reserved. Unauthorized distribution, modification, or commercial use is prohibited.
+
+Public release and licensing information will be shared after publication.
