@@ -1,4 +1,3 @@
-**README**
 **Overview**
 
 This package contains the inference pipeline and pretrained model checkpoint for reproducing the denoising results presented in the submitted manuscript.
