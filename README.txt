@@ -6,4 +6,4 @@ Full mode requires setting demo_mode=False and providing weights/bm3d_res_unet_b
 
 Dataset DOI: 10.5281/zenodo.21094222
 
-The demo version outlines the work and demonstrates BM3D and U-Net. The full version will be published on GitHub after the article is approved.
+The demo version summarizes the work and demonstrates BM3D and U-Net. Since this is a thesis, the full version will be published on GitHub after the paper is approved.
