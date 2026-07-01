@@ -45,6 +45,8 @@ Dataset DOI:
 
 Notes
 
-This submission includes the inference pipeline, simulated dataset generation script, and pretrained model checkpoint required to reproduce the results reported in the manuscript.
+To ensure reproducibility and enable independent evaluation, this submission includes the inference pipeline, simulated dataset generation script, and pretrained model checkpoint used to obtain the results reported in the manuscript.
 
-The complete training pipeline is not included in the current submission, as this work is part of ongoing thesis research and publication review. The full source code will be made publicly available after publication.
+These materials provide sufficient resources for reproducing the reported experiments and validating the proposed method.
+
+The complete training pipeline is not included in the current submission, as the work is part of ongoing thesis research and publication review. The full implementation will be made publicly available after publication.
