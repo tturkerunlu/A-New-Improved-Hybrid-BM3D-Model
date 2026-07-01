@@ -1,11 +1,11 @@
-README
-Overview
+**README**
+**Overview**
 
 This package contains the inference pipeline and pretrained model checkpoint for reproducing the denoising results presented in the submitted manuscript.
 
 The proposed framework combines BM3D preprocessing with U-Net-based residual refinement for image denoising.
 
-Requirements
+**Requirements**
 Python 3.10+
 PyTorch
 OpenCV
@@ -37,13 +37,13 @@ Pretrained checkpoint:
 
 weights/bm3d_res_unet_best.pth
 
-Dataset
+**Dataset**
 
-Dataset DOI:
+**Dataset DOI:**
 
 10.5281/zenodo.21094222
 
-Notes
+**Notes**
 
 To ensure reproducibility and enable independent evaluation, this submission includes the inference pipeline, simulated dataset generation script, and pretrained model checkpoint used to obtain the results reported in the manuscript.
 
