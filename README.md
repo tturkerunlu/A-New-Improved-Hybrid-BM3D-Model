@@ -5,6 +5,7 @@ This package contains the inference pipeline and pretrained model checkpoint for
 The proposed framework combines BM3D preprocessing with U-Net-based residual refinement for image denoising.
 
 **Requirements**
+
 Python 3.10+
 PyTorch
 OpenCV
