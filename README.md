@@ -50,9 +50,15 @@ weights/bm3d_res_unet_best.pth
 
 **Dataset**
 
-**Dataset DOI:**
+The training dataset (image patches used to train the model) is archived on Zenodo:
 
-10.5281/zenodo.21094222
+DOI: 10.5281/zenodo.21094222
+
+Third-party benchmark test sets used in the manuscript:
+
+
+Urban100 (Huang et al., 2015): https://github.com/jbhuang0604/SelfExSR — https://doi.org/10.1109/CVPR.2015.7299156
+CUrban100 (El Helou, 2021): https://github.com/majedelhelou/denoising_datasets/tree/main/CUrban100
 
 **Notes**
 
