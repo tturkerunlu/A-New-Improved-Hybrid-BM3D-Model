@@ -60,7 +60,9 @@ Third-party benchmark test sets used in the manuscript:
 Urban100 (Huang et al., 2015): 100 high-resolution images of urban scenes — https://doi.org/10.1109/CVPR.2015.7299156 — available at https://github.com/jbhuang0604/SelfExSR
 BSD68 (Martin et al., 2001): 68-image subset derived from the Berkeley Segmentation Dataset — https://doi.org/10.1109/ICCV.2001.937655 — available at https://github.com/majedelhelou/denoising_datasets/tree/main/BSD68
 
+
 CUrban100 (El Helou, 2021): color version of the Urban100 dataset — https://github.com/majedelhelou/denoising_datasets/tree/main/CUrban100
+
 CBSD68 (El Helou, 2021): color version of the BSD68 dataset — https://github.com/majedelhelou/denoising_datasets/tree/main/CBSD68
 
 **Notes**
