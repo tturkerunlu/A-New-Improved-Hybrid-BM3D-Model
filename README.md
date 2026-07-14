@@ -50,10 +50,6 @@ weights/bm3d_res_unet_best.pth
 
 **Dataset**
 
-The training dataset (image patches used to train the model) is archived on Zenodo:
-
-DOI: 10.5281/zenodo.21094222
-
 Third-party benchmark test sets used in the manuscript:
 
 
